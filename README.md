@@ -37,6 +37,13 @@
 * [Rest API](https://medium.com/@dydrlaks/rest-api-3e424716bab) - Rest API 개념 (http 프로토콜만 사용 가능)
 * [GraphQL](https://tech.kakao.com/2019/08/01/graphql-basic/) - GrahphQL 개념 (http / websocket 프로토콜 사용 가능)
 
+#### node.js 의 대안
+* [Deno](https://han41858.tistory.com/50)
+* [Regret about node.js](https://www.youtube.com/watch?v=M3BM9TB-8yA)
+
+
+#### Frontend Framework
+* [svelteJS](https://heropy.blog/2019/09/29/svelte/) - 신규 트렌드
 
 
 # 개발
