@@ -23,3 +23,8 @@
 ### 통계
 
 * [통계분석기법(R위주)](https://rsas.tistory.com/)
+
+
+### 웹
+
+* [GraphQL] (https://tech.kakao.com/2019/08/01/graphql-basic/) - GrahphQL 개념
