@@ -27,4 +27,6 @@
 
 ### 웹
 
+## 인터페이스
 * [GraphQL](https://tech.kakao.com/2019/08/01/graphql-basic/) - GrahphQL 개념
+* [RPC](https://nesoy.github.io/articles/2019-07/RPC) - RPC 개념
