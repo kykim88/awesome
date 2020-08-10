@@ -41,4 +41,4 @@
 
 # 개발
 #### 디자인/개발 원칙
-* [SOLID / KISS/ YAGNI / DRY](https://hongjinhyeon.tistory.com/136?category=609133)
+* [SOLID / KISS / YAGNI / DRY](https://hongjinhyeon.tistory.com/136?category=609133)
