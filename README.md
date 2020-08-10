@@ -28,3 +28,7 @@
 * [통계분석기법(R위주)](https://rsas.tistory.com/)
 
 
+### 웹
+#### 인터페이스
+* [GraphQL](https://tech.kakao.com/2019/08/01/graphql-basic/) - GrahphQL 개념
+* [RPC](https://nesoy.github.io/articles/2019-07/RPC) - RPC 개념
