@@ -28,7 +28,8 @@
 * [통계분석기법(R위주)](https://rsas.tistory.com/)
 
 
-### 웹
-#### 인터페이스
-* [GraphQL](https://tech.kakao.com/2019/08/01/graphql-basic/) - GrahphQL 개념
+# 웹
+#### remote call 인터페이스
 * [RPC](https://nesoy.github.io/articles/2019-07/RPC) - RPC 개념
+* [Rest API](https://medium.com/@dydrlaks/rest-api-3e424716bab) - Rest API 개념 (http 프로토콜만 사용 가능)
+* [GraphQL](https://tech.kakao.com/2019/08/01/graphql-basic/) - GrahphQL 개념 (http / websocket 프로토콜 사용 가능)
