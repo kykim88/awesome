@@ -6,6 +6,9 @@
 * https://techit.kr/ - 테크잇
 * http://www.itworld.co.kr/main/ - IT WORLD
 
+### Architecture
+
+ * [조대협의 블로그](https://bcho.tistory.com/) - 아키텍쳐
 
 # PYTHON
 
@@ -23,3 +26,5 @@
 ### 통계
 
 * [통계분석기법(R위주)](https://rsas.tistory.com/)
+
+
