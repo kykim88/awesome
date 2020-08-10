@@ -27,4 +27,4 @@
 
 ### 웹
 
-* [GraphQL] (https://tech.kakao.com/2019/08/01/graphql-basic/) - GrahphQL 개념
+* [GraphQL](https://tech.kakao.com/2019/08/01/graphql-basic/) - GrahphQL 개념
