@@ -36,3 +36,9 @@
 * [RPC](https://nesoy.github.io/articles/2019-07/RPC) - RPC 개념
 * [Rest API](https://medium.com/@dydrlaks/rest-api-3e424716bab) - Rest API 개념 (http 프로토콜만 사용 가능)
 * [GraphQL](https://tech.kakao.com/2019/08/01/graphql-basic/) - GrahphQL 개념 (http / websocket 프로토콜 사용 가능)
+
+
+
+# 개발
+#### 디자인/개발 원칙
+* [SOLID / KISS/ YAGNI / DRY](https://hongjinhyeon.tistory.com/136?category=609133)
