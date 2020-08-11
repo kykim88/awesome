@@ -44,6 +44,7 @@
 
 #### Frontend & Framework
 * [VirtualDOM](https://velog.io/@sbinha/React%EC%97%90%EC%84%9C-Virtual-DOM) - virtual DOM 이란
+* [React](https://medium.com/@RianCommunity/react%EC%9D%98-%ED%83%84%EC%83%9D%EB%B0%B0%EA%B2%BD%EA%B3%BC-%ED%8A%B9%EC%A7%95-4190d47a28f) - React 탄생배경 및 특징
 * [svelteJS](https://heropy.blog/2019/09/29/svelte/) - 신규 트렌드
 
 
