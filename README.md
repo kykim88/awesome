@@ -42,7 +42,8 @@
 * [Regret about node.js](https://www.youtube.com/watch?v=M3BM9TB-8yA)
 
 
-#### Frontend Framework
+#### Frontend & Framework
+* [VirtualDOM](https://velog.io/@sbinha/React%EC%97%90%EC%84%9C-Virtual-DOM) - virtual DOM 이란
 * [svelteJS](https://heropy.blog/2019/09/29/svelte/) - 신규 트렌드
 
 
